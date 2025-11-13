@@ -3,16 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: red <red@student.42.fr>                    +#+  +:+       +#+        */
+/*   By: ajordan- <ajordan-@student.42urduliz.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/06 16:36:45 by red               #+#    #+#             */
-/*   Updated: 2025/11/08 11:58:27 by red              ###   ########.fr       */
+/*   Created: 2021/09/06 11:58:09 by ajordan-          #+#    #+#             */
+/*   Updated: 2021/09/28 09:42:55 by ajordan-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdarg.h>
-#include <includes/libft.h>
-
+#include "ft_printf.h"
 
 int	ft_printchar(int c)
 {
